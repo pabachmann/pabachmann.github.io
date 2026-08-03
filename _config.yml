@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Paul Anton Bachmann"
 title_separator          : "-"
 name                     : &name "Paul Anton Bachmann"
@@ -33,11 +33,13 @@ author:
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Bachmann%2C+P+A"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   orcid            : "https://orcid.org/0009-0008-5600-8876"
   dblp             : "https://dblp.org/pid/437/7042.html"
 
-
+  - label: "DBLP"
+    icon: "fas fa-fw fa-database"
+     url: "https://dblp.org/pid/437/7042.html"
   # Repositories and software development
   github           : "pabachmann"
 
