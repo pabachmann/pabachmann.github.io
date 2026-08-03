@@ -13,7 +13,7 @@ title                    : "Paul Anton Bachmann"
 title_separator          : "-"
 name                     : &name "Paul Anton Bachmann"
 description              : &description "Doctoral Student at TU Wien"
-url                      : https://pabachmann.github.io
+uri                      : https://pabachmann.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pabachmann.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Doctoral Student, CoE Bilateral AI"
   location         : "Vienna, Austria"
   employer         : "TU Wien"
-  url              : "https://informatics.tuwien.ac.at/people/paul-bachmann"
+  uri              : "https://informatics.tuwien.ac.at/people/paul-bachmann"
   email            : "paul.bachmann@tuwien.ac.at" 
 
   # Academic websites
