@@ -168,9 +168,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding: 10px;
-  padding-left: 15px;
-  padding-right: 25px;
+  padding: 10px 25px;             // oben/unten 10px, links/rechts 25px (symmetrisch)
   line-height: 1;
 
   @include breakpoint($large) {
@@ -221,7 +219,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;          // von 20px auf 10px verkleinert, jetzt konsistent
   }
 }
 
