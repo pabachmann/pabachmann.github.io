@@ -28,11 +28,10 @@ author:
   bio              : "Doctoral Student, CoE Bilateral AI"
   location         : "Vienna, Austria"
   employer         : "TU Wien"
-  url              : # URL
+  url              : "https://informatics.tuwien.ac.at/people/paul-bachmann"
   email            : "paul.bachmann@tuwien.ac.at" 
 
   # Academic websites
-  website          : "https://informatics.tuwien.ac.at/people/paul-bachmann"
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Bachmann%2C+P+A"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/0009-0008-5600-8876"
