@@ -156,7 +156,6 @@ $(document).ready(function () {
   $('#theme-toggle').on('click', toggleTheme);
 
   // Enable the sticky footer
-   /*
   var bumpIt = function () {
     $("body").css("padding-bottom", "0");
     $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
@@ -170,10 +169,7 @@ $(document).ready(function () {
       bumpIt();
     }}, 250);
   var didResize = false;
-  bumpIt();*/
-     // Sticky footer is now handled purely via CSS flexbox (see _footer.scss),
-  // so the old JS-based body margin adjustment is no longer needed.
-
+  bumpIt();
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function () {
     $(".author__urls").fadeToggle("fast", function () { });
