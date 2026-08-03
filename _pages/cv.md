@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * ongoing: Ph.D (Dr. techn.) in Informatics, TU Wien, 2029 (expected)
 * M.Sc. in Informatics, TU Munich, 2025
@@ -19,7 +19,7 @@ Education
   * Thesis: Higher-Order Unification with Hints in Isabelle
   * Application Subject ('Minor'): Phonetics and Speech Processing, LMU Munich
 
-Work experience
+## Work experience
 ======
 * Winter 2024/25: Tutor for Computational Social Choice
   * TU Munich
@@ -49,7 +49,7 @@ Work experience
   * Kletter- und Boulderzentrum Freimann (climbing gym)
   * Duties includes: food preparation, customer service
   
-Skills
+## Skills
 ======
 * Academic Teaching and Tutoring
   * taught various undergraduate tutorials on theoretical computer science topics (in English and German)
@@ -67,29 +67,29 @@ Skills
   * contributed ~15 articles to student magazine _Reisswolf_ at TUM
   * handled editorial tasks
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Awards and honors
+## Awards and honors
 ======
 * _Pro-Campus-Presse_ student press prize, 2022 (500€) — for a critical article on the future of urban mobility
 
-Service and leadership
+## Service and leadership
 ======
 * ACM FAccT Conference 2026
   * volunteer, session support and publicity
