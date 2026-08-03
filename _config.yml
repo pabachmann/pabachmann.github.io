@@ -36,10 +36,7 @@ author:
   googlescholar    : ""
   orcid            : "https://orcid.org/0009-0008-5600-8876"
   dblp             : "https://dblp.org/pid/437/7042.html"
-
-  - label: "DBLP"
-    icon: "fas fa-fw fa-database"
-     url: "https://dblp.org/pid/437/7042.html"
+  
   # Repositories and software development
   github           : "pabachmann"
 
