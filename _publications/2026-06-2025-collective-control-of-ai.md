@@ -3,7 +3,7 @@ title: "AI of the People, by the People, for the People: A Social Choice Approac
 collection: publications
 category: manuscripts
 permalink: 
-excerpt: 'We propose a framework for collective control of AI grounded in social choice theory.'
+excerpt: 'We propose a framework for collective control of AI grounded in social choice theory, both as a principled way to evaluate control mechanisms as well as as concrete control mechanisms to enable collective input during development.'
 date: 2026-06-25
 venue: 'ACM FAccT'
 paperurl: 'https://dl.acm.org/doi/10.1145/3805689.3806808'
