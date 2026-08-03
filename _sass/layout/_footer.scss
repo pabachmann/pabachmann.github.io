@@ -45,16 +45,14 @@
   }
 }
 
-/* Sticky footer layout */
+/* Sticky footer layout (ohne Flexbox, damit die Float-Spalten intakt bleiben) */
 html {
   height: 100%;
 }
 body {
+  position: relative;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
+  padding-bottom: 0; /* Platz für den Footer wird nicht mehr gebraucht */
 }
 #main {
   flex: 1 0 auto;
