@@ -28,7 +28,6 @@ Work experience
 * 2023–2024: Administration Assistant and Student Community Manager
   * BayZeN – Bavarian Center for Sustainability in Higher Education
   * Duties includes: event organisation, administrative tasks, organising and connecting student sustainability initiatives in Bavaria
-  * Supervisor: Lara Lütke-Spatz
 
 * Summer 2019, Summer 2021, Summer 2022, Winter 2022/23, Summer 2023: Tutor for Introduction to the Theory of Computation
   * TU Munich
@@ -49,16 +48,13 @@ Work experience
 * 2015–2018: Kitchen Staff
   * Kletter- und Boulderzentrum Freimann (climbing gym)
   * Duties includes: food preparation, customer service
-
-* 2014: Intern in Biochemistry Laboratory
-  * University of Cambridge
-  * Duties includes: one-week high school internship, assisting in protein folding research
-
   
 Skills
 ======
 * Academic Teaching and Tutoring
-  * 
+  * taught various undergraduate tutorials on theoretical computer science topics (in English and German)
+  * developed and conducted exam revision courses
+  * co-authored Haskell and OCaml programming exercises
 * Coding
   * Python, OCaml, Haskell, Isabelle, LaTeX - proficient: used in teaching and academic contexts
   * Java, C++, Assembly, SQL - basic: covered in courses
