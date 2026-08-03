@@ -2,7 +2,7 @@
 title: "AI of the People, by the People, for the People: A Social Choice Approach to Collective Control of Artificial Intelligence"
 collection: publications
 category: manuscripts
-permalink: 
+permalink: /publications/2026-06-2025-collective-control-of-ai/
 excerpt: 'We propose a framework for collective control of AI grounded in social choice theory, both as a principled way to evaluate control mechanisms as well as as concrete control mechanisms to enable collective input during development.'
 date: 2026-06-25
 venue: 'ACM FAccT'
