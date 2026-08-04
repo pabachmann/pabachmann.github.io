@@ -91,19 +91,19 @@ redirect_from:
 
 ## Service and leadership
 
-* ACM FAccT Conference 2026
+* **ACM FAccT Conference 2026**
   * volunteer, session support and publicity
-* Student Council (Studentische Vertretung), TU Munich
+* **Student Council (Studentische Vertretung), TU Munich**
   * 2023-2025: student representative in Taskforce Sustainable Campus Development (elected)
   * 2018-2025: volunteer in student Environmental Department, advocacy for sustainability and climate justice
-* Informatics Student Council (Fachschaft Informatik), TU Munich
+* **Informatics Student Council (Fachschaft Informatik), TU Munich**
   * 2024: appointment and tenure track evaluation committees
   * 2023-2024: student representative (elected)
-* Mechanical Engineering Student Council (Fachschaft Maschinenbau), TU Munich
+* **Mechanical Engineering Student Council (Fachschaft Maschinenbau), TU Munich**
   * 2023-2024: head of the student council (elected)
   * 2022-2023: editor-in-chied, student magazine _Reisswolf_ (elected)
   * 2018-2025: editorial team, event organisation, remembrance and sustainability advocacy
-* Advocacy and Community Organising, Munich
+* **Advocacy and Community Organising, Munich**
   * 2025: volunteer in tenant outreach and housing justice projects
   * 2022-2023: volunteer in labour action for fairer student wages
 
