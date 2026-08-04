@@ -7,8 +7,6 @@ redirect_from:
   - /random
 ---
 
-{% include toc %}
-
 ## Random Stuff
 * A
 * B
