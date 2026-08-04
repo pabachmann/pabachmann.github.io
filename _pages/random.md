@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /random/
 title: "Random"
 author_profile: true
