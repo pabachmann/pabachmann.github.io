@@ -49,6 +49,8 @@ publication_category:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  student-magazine:
+    title: 'Other Writing (Student Magazine _Reisswolf_)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
