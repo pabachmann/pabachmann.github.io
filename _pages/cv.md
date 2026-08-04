@@ -11,59 +11,59 @@ redirect_from:
 
 ## Education
 
-* ongoing: Ph.D (Dr. techn.) in Informatics, TU Wien, 2029 (expected)
-* M.Sc. in Informatics, TU Munich, 2025
+* **ongoing: Ph.D (Dr. techn.) in Informatics, TU Wien, 2029 (expected)**
+* **M.Sc. in Informatics, TU Munich, 2025**
   * Thesis: Iterative Approval-Based Committee Voting
   * Interdisciplinary Project: Contract Theory, LMU Munich
-* B.Sc. in Informatics, TU Munich, 2021
+* **B.Sc. in Informatics, TU Munich, 2021**
   * Thesis: Higher-Order Unification with Hints in Isabelle
   * Application Subject ('Minor'): Phonetics and Speech Processing, LMU Munich
 
 ## Work experience
 
-* Winter 2024/25: Tutor for Computational Social Choice
+* Winter 2024/25: **Tutor for Computational Social Choice**
   * TU Munich
   * Duties include: support for students, submission grading
 
-* 2023–2024: Administration Assistant and Student Community Manager
+* 2023–2024: **Administration Assistant and Student Community Manager**
   * BayZeN – Bavarian Center for Sustainability in Higher Education
   * Duties include: event organisation, administrative tasks, organising and connecting student sustainability initiatives in Bavaria
 
-* Summer 2019, Summer 2021, Summer 2022, Winter 2022/23, Summer 2023: Tutor for Introduction to the Theory of Computation
+* Summer 2019, Summer 2021, Summer 2022, Winter 2022/23, Summer 2023: **Tutor for Introduction to the Theory of Computation**
   * TU Munich
   * Duties include: teaching tutorials on automata, formal languages, computability and complexity theory, support for students, submission grading, organising exam revision course
 
-* Winter 2018/19, Winter 2019/20, Winter 2020/21, Winter 2021/22, Summer 2022: Tutor for Functional Programming and Verification
+* Winter 2018/19, Winter 2019/20, Winter 2020/21, Winter 2021/22, Summer 2022: **Tutor for Functional Programming and Verification**
   * TU Munich
   * Duties include: teaching tutorials on functional programming with OCaml/Haskell and formal verification proofs, developing exercises, support for students, submission grading, organising exam revision course
 
-* Summer 2020: Tutor for Discrete Probability Theory
+* Summer 2020: **Tutor for Discrete Probability Theory**
   * TU Munich
   * Duties include: teaching tutorials on probability theory, statistics and stochastic processes, support for students, submission grading
 
-* 2019: Research Assistant for Psycholinguistics
+* 2019: **Research Assistant for Psycholinguistics**
   * Institute of Phonetics and Speech Processing, LMU Munich
   * Duties include: labelling and assisting with evaluation of speech data for psycholinguistics experiments
 
-* 2015–2018: Kitchen Staff
+* 2015–2018: **Kitchen Staff**
   * Kletter- und Boulderzentrum Freimann (climbing gym)
   * Duties include: food preparation, customer service
   
 ## Skills
 
-* Academic Teaching and Tutoring
+* **Academic Teaching and Tutoring**
   * taught various undergraduate tutorials on theoretical computer science topics (in English and German)
   * developed and conducted exam revision courses
   * co-authored Haskell and OCaml programming exercises
-* Coding
+* **Coding**
   * Python, OCaml, Haskell, Isabelle, LaTeX - proficient: used in teaching and academic contexts
   * Java, C++, Assembly, SQL - basic: covered in courses
-* Languages
+* **Languages**
   * German - native
   * English - C1-C2 (used in academic settings)
   * Spanish - B2 (university courses and tandem programmes)
   * Italian - working on it :)
-* Public Writing
+* **Public Writing**
   * contributed ~15 articles to student magazine _Reisswolf_ at TU Munich
   * handled editorial tasks
 
