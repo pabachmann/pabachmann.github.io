@@ -23,31 +23,31 @@ redirect_from:
 
 * Winter 2024/25: Tutor for Computational Social Choice
   * TU Munich
-  * Duties includes: support for students, submission grading
+  * Duties include: support for students, submission grading
 
 * 2023–2024: Administration Assistant and Student Community Manager
   * BayZeN – Bavarian Center for Sustainability in Higher Education
-  * Duties includes: event organisation, administrative tasks, organising and connecting student sustainability initiatives in Bavaria
+  * Duties include: event organisation, administrative tasks, organising and connecting student sustainability initiatives in Bavaria
 
 * Summer 2019, Summer 2021, Summer 2022, Winter 2022/23, Summer 2023: Tutor for Introduction to the Theory of Computation
   * TU Munich
-  * Duties includes: teaching tutorials on automata, formal languages, computability and complexity theory, support for students, submission grading, organising exam revision course
+  * Duties include: teaching tutorials on automata, formal languages, computability and complexity theory, support for students, submission grading, organising exam revision course
 
 * Winter 2018/19, Winter 2019/20, Winter 2020/21, Winter 2021/22, Summer 2022: Tutor for Functional Programming and Verification
   * TU Munich
-  * Duties includes: teaching tutorials on functional programming with OCaml/Haskell and formal verification proofs, developing exercises, support for students, submission grading, organising exam revision course
+  * Duties include: teaching tutorials on functional programming with OCaml/Haskell and formal verification proofs, developing exercises, support for students, submission grading, organising exam revision course
 
 * Summer 2020: Tutor for Discrete Probability Theory
   * TU Munich
-  * Duties includes: teaching tutorials on probability theory, statistics and stochastic processes, support for students, submission grading
+  * Duties include: teaching tutorials on probability theory, statistics and stochastic processes, support for students, submission grading
 
 * 2019: Research Assistant for Psycholinguistics
   * Institute of Phonetics and Speech Processing, LMU
-  * Duties includes: labelling and assisting with evaluation of speech data for psycholinguistics experiments
+  * Duties include: labelling and assisting with evaluation of speech data for psycholinguistics experiments
 
 * 2015–2018: Kitchen Staff
   * Kletter- und Boulderzentrum Freimann (climbing gym)
-  * Duties includes: food preparation, customer service
+  * Duties include: food preparation, customer service
   
 ## Skills
 
