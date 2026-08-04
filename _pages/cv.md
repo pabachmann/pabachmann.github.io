@@ -42,7 +42,7 @@ redirect_from:
   * Duties include: teaching tutorials on probability theory, statistics and stochastic processes, support for students, submission grading
 
 * 2019: Research Assistant for Psycholinguistics
-  * Institute of Phonetics and Speech Processing, LMU
+  * Institute of Phonetics and Speech Processing, LMU Munich
   * Duties include: labelling and assisting with evaluation of speech data for psycholinguistics experiments
 
 * 2015–2018: Kitchen Staff
@@ -64,7 +64,7 @@ redirect_from:
   * Spanish - B2 (university courses and tandem programmes)
   * Italian - working on it :)
 * Public Writing
-  * contributed ~15 articles to student magazine _Reisswolf_ at TUM
+  * contributed ~15 articles to student magazine _Reisswolf_ at TU Munich
   * handled editorial tasks
 
 ## Publications
