@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2022-winter-introduction-to-theory-of-computation
 venue: "TU Munich"
-date: 2022-10-01
+date: 2022-10-15
 location: "Munich, Germany"
 ---
 

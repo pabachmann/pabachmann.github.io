@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2019-summer-introduction-to-theory-of-computation
 venue: "TU Munich"
-date: 2019-04-01
+date: 2019-04-15
 location: "Munich, Germany"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2020-summer-discrete-probability-theory
 venue: "TU Munich"
-date: 2020-04-01
+date: 2020-04-15
 location: "Munich, Germany"
 ---
 

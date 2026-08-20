@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2024-winter-computational-social-choice
 venue: "TU Munich"
-date: 2024-10-01
+date: 2024-10-15
 location: "Munich, Germany"
 ---
 

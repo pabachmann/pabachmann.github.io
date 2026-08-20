@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2021-winter-functional-programming-and-verification
 venue: "TU Munich"
-date: 2021-10-01
+date: 2021-10-15
 location: "Munich, Germany"
 ---
 

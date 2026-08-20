@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial"
 permalink: /teaching/2021-summer-introduction-to-theory-of-computation
 venue: "TU Munich"
-date: 2021-04-01
+date: 2021-04-15
 location: "Munich, Germany"
 ---
 
