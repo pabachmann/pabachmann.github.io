@@ -49,6 +49,8 @@ publication_category:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshop Papers and Extended Abstracts'
   student-magazine:
     title: 'Other Writing (Student Magazine _Reisswolf_)'
 

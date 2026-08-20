@@ -3,7 +3,7 @@ title: "AI of the People, by the People, for the People: A Social Choice Approac
 authors: "Paul Anton Bachmann, Niclas Böhmer, Lukas Daniel Klausner, Martin Lackner"
 collection: publications
 category: conferences
-permalink: /publications/2026-06-2025-collective-control-of-ai/
+permalink: /publications/2026-06-25-collective-control-of-ai/
 date: 2026-06-25
 venue: 'ACM FAccT'
 slidesurl: 'https://pabachmann.github.io/files/26ccofai/slides.pdf'
