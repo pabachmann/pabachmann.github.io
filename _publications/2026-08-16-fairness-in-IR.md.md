@@ -6,6 +6,7 @@ category: workshops
 permalink: /publications/2026-08-16-fairness-in-IR/
 date: 2026-08-16
 venue: 'SCaLA Workshop at IJCAI26'
+link: 'https://sites.google.com/view/scala26/program'
 paperurl: 'https://pabachmann.github.io/files/26fairness-in-ir/paper.pdf'
 ---
 Provider fairness in information retrieval (IR) often demands fair representation of both individual providers and groups of providers in the retrieval output. We formulate axioms for both types, inspired by similar settings in social choice theory, with the aim of long-term (amortised) fairness across queries.
