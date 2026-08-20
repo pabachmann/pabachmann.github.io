@@ -26,7 +26,9 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      {% if post.collection == 'publications' %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -41,14 +43,14 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.category != 'workshops' %}
-            {% if post.link %}
-              <p>Published in <i><a href="{{ post.link }}">{{ post.venue }}</a></i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% if post.link_external %}
+              <p>Published in <i><a href="{{ post.link_external }}">{{ post.venue }}</a></i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
               <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
           {% else %}
-            {% if post.link %}
-              <p>Presented at <i><a href="{{ post.link }}">{{ post.venue }}</a></i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% if post.link_external %}
+              <p>Presented at <i><a href="{{ post.link_external }}">{{ post.venue }}</a></i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
               <p>Presented at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}

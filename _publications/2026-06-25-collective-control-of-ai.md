@@ -6,7 +6,7 @@ category: conferences
 permalink: /publications/2026-06-25-collective-control-of-ai/
 date: 2026-06-25
 venue: 'ACM FAccT'
-link: 'https://dl.acm.org/doi/10.1145/3805689.3806808'
+link_external: 'https://dl.acm.org/doi/10.1145/3805689.3806808'
 slidesurl: 'https://pabachmann.github.io/files/26ccofai/slides.pdf'
 bibtexurl: 'https://pabachmann.github.io/files/26ccofai/bibtex.bib'
 paperurl: 'https://pabachmann.github.io/files/26ccofai/paper.pdf'

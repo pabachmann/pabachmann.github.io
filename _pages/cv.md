@@ -106,5 +106,3 @@ redirect_from:
 * **Advocacy and Community Organising, Munich**
   * 2025: volunteer in tenant outreach and housing justice projects
   * 2022-2023: volunteer in labour action for fairer student wages
-
-

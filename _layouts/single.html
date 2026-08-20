@@ -39,14 +39,14 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           {% if page.category != 'workshops' %}
-            {% if page.link %}
-              <p>Published in <i><a href="{{ page.link }}">{{ page.venue }}</a></i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% if page.link_external %}
+              <p>Published in <i><a href="{{ page.link_external }}">{{ page.venue }}</a></i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
               <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
           {% else %}
-            {% if page.link %}
-              <p>Presented at <i><a href="{{ page.link }}">{{ page.venue }}</a></i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% if page.link_external %}
+              <p>Presented at <i><a href="{{ page.link_external }}">{{ page.venue }}</a></i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
               <p>Presented at <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% endif %}
@@ -90,7 +90,7 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.paperurl }}">Paper</a></p>
         {% endif %}
 
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link_external %}<div><a href="{{ page.link_external }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
       <footer class="page__meta">
