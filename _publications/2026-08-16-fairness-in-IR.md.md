@@ -1,5 +1,5 @@
 ---
-title: "Temporal Provider-Side Fairness in Information Retrieval: An Axiomatic Perspective"
+title: "Temporal Provider-Side Fairness in Information Retrieval: An Axiomatic Perspective (Extended Abstract)"
 authors: "Paul Anton Bachmann, Hannah Eckert, Martin Lackner"
 collection: publications
 category: workshops
