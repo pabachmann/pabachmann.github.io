@@ -91,6 +91,8 @@ redirect_from:
 
 ## Service and leadership
 
+* **Rethinking Economics Summer School Switzerland 2026**
+  * volunteer, kitchen team
 * **ACM FAccT Conference 2026**
   * volunteer, session support and publicity
 * **Student Council (Studentische Vertretung), TU Munich**
