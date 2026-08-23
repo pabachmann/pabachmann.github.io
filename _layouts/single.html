@@ -36,7 +36,13 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% assign month = page.date | date: '%m' | plus: 0 %}
+          {% if month >= 4 and month <= 9 %}
+            {% assign semester = "Summer Semester" %}
+          {% else %}
+            {% assign semester = "Winter Semester" %}
+          {% endif %}
+          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ semester }} {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           {% if page.category != 'workshops' %}
             {% if page.link_external %}
